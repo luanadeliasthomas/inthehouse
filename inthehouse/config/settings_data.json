@@ -1,0 +1,16 @@
+
+{
+  "current": {
+    "sections": {
+      "show_up": {
+        "type": "slideshow"
+      }
+    },
+    "content_for_index": [
+      "show_up"
+    ]
+  },
+  "presets": {
+    "Default": { }
+  }
+}
